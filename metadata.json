@@ -1,0 +1,5 @@
+{
+  "name": "Synapse: AI Research Synthesizer",
+  "description": "A specialized research tool powered by Gemini 3.0 Pro and Gemini 2.5 Flash. It digests complex web content from URLs into competent, accessible summaries while retaining and explaining high-value technical and scientific terminology.",
+  "requestFramePermissions": []
+}
